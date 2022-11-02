@@ -2,6 +2,9 @@ This is repository where we would collect our MLops ideas in field of particle a
 # Topics
 
 ## MLOps
+
+From SLAC: https://slaclab.github.io/lume-services/
+
 ### Data Version Control
 https://dvc.org/
 ## Publications
