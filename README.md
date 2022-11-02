@@ -2,5 +2,7 @@ This is repository where we would collect our MLops ideas in field of particle a
 # Topics
 
 ## MLOps
+### Data Version Control
+https://dvc.org/
 ## Publications
 ## Examples
